@@ -17,7 +17,7 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/guilhem_lavaux/glmath"
-Issues = "https:///github.com/guilhem_lavaux/glmath/issues"
+Issues = "https://github.com/guilhem_lavaux/glmath/issues"
 
 [build-system]
 requires = ["setuptools >= 61.0", "numpy", "wheel", "Cython", "python-semantic-release"]
